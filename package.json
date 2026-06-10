@@ -1,0 +1,16 @@
+{
+  "name": "multi-structer-backend-project",
+  "version": "1.0.0",
+  "description": "a multi structer backend project",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Anubhab",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
